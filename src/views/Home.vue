@@ -18,7 +18,7 @@
           </div>
           <v-divider :width="dynamicWidth" class="mx-auto"></v-divider>
           <div class="my-6">
-            <h3 class="text--subtitle-1 my-3 pa-2 primary white--text">Languages/Frameworks/Tools/Databases</h3>
+            <h3 class="text--subtitle-1 my-3 pa-2 primary white--text">Languages/Frameworks/Databases</h3>
             <v-sheet>
               <v-chip
                 v-for="stack in stacks" :key="stack.label"
