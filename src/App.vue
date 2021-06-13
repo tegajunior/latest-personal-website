@@ -162,7 +162,7 @@ export default {
           this.active_index = 2;
           break;
 
-        case "Stacks":
+        case "Resume":
           this.active_index = 3;
           break;
 
