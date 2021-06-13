@@ -2,7 +2,7 @@
   <div>
     <v-container fluid class="text-center">
       <h1 class="text--subtitle-1 my-3 primary--text">Resume</h1>
-      <pdf src="./My-CV-as-at-24-may-2021-pdfv.pdf"></pdf>
+      <pdf src="./cv-as-of-09-06-2021.pdf"></pdf>
     </v-container>
   </div>
 </template>
