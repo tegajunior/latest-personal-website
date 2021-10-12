@@ -95,6 +95,10 @@
           icon: "mdi-vuetify"
         },
         {
+          label: "React",
+          icon: "mdi-react"
+        },
+        {
           label: "Node.Js",
           icon: "mdi-nodejs"
         },
