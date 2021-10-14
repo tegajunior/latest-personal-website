@@ -22,7 +22,7 @@
                 </v-card-text>
                 <v-card-actions>
                   <v-spacer></v-spacer>
-                  <a :href="project.url" class="text-decoration-none">
+                  <a :href="project.url" target="_blank" class="text-decoration-none">
                     <v-btn
                       color="transparent"
                       :class="{'show-btns': hover }"
