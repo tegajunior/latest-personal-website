@@ -3,7 +3,8 @@
     <v-container fluid>
       <v-row justify="space-between">
         <v-col cols="12" class="mb-10">
-          <ProfileCard />
+          <ProfileCardSmall class="hidden-md-and-up" />
+          <ProfileCard class="hidden-sm-and-down"/>
         </v-col>
         <v-col cols="12" :elevation="24" class="text-md-left text-center primary--text">
           <div>
@@ -55,6 +56,7 @@
 
 <script>
   import ProfileCard from "@/components/ProfileCard"
+  import ProfileCardSmall from "@/components/ProfileCardSmall"
 
   export default {
     name: 'Home',
@@ -119,7 +121,8 @@
     },
 
     components: {
-      ProfileCard
+      ProfileCard,
+      ProfileCardSmall
     },
     computed: {
       dynamicWidth() {
