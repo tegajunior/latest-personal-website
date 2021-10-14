@@ -65,6 +65,12 @@ export default {
         description: 'This is a simple weather reporting app that displays the temperature and weather condition of any city',
         languages: "Html/Css, Node.js, Ejs, APIs,",
         url: "https://evening-caverns-80880.herokuapp.com/"
+      },
+      {
+        title: 'Survey Creation App',
+        description: 'This is a simple app for survey creation. Before using this app, you have to create an account first.',
+        languages: "Html/Css, Node.js, Ejs, Mongodb, Mongoose, etc",
+        url: "http://waaw-survey-creator.herokuapp.com/"
       }
     ]
   })
