@@ -27,7 +27,7 @@
       ></v-app-bar-nav-icon>
     </v-app-bar>
     <v-sheet color="information">
-      <v-navigation-drawer v-model="drawer" absolute temporary>
+      <v-navigation-drawer v-model="drawer" absolute temporary style="position:fixed;">
         <v-list nav>
           <v-list-item-group
             v-model="group"
