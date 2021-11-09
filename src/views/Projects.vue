@@ -55,6 +55,12 @@ export default {
         url: "https://peaceful-clarke-66c2f4.netlify.app/login"
       },
       {
+        title: 'Todo App',
+        description: 'A React App for adding and removing tasks. Account registeration and login authentication is implemeted too. ',
+        languages: "Html/Css, JavaScript, React, Node.Js, Mongodb, ExpressJS, etc",
+        url: "https://practical-bassi-5116d9.netlify.app/"
+      },
+      {
         title: 'Meeting App',
         description: 'This is a simple meeting app. Any user can register as to be able to create a meeting for others to join. Any registered user can join a created meeting',
         languages: "Html/Css, Bootstrap, JavaScript, Vue.JS, Vuex, Firebase, Firestore Cloud",
