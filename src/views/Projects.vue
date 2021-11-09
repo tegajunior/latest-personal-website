@@ -58,7 +58,7 @@ export default {
         title: 'Todo App',
         description: 'A React App for adding and removing tasks. Account registeration and login authentication is implemeted too. ',
         languages: "Html/Css, JavaScript, React, Node.Js, Mongodb, ExpressJS, etc",
-        url: "https://practical-bassi-5116d9.netlify.app/"
+        url: "https://chidi-react-todo.netlify.app"
       },
       {
         title: 'Meeting App',
