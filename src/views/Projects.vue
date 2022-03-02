@@ -49,10 +49,22 @@ export default {
   data: () => ({
     projects: [
       {
+        title: 'Online Tutoring',
+        description: 'This is a SPA for booking online tutoring for your kids. It has features such as parent\'s account creation, student\'s account, in-app video sessions, online payments, etc. This app is currently in production',
+        languages: 'Vue.JS, Vuex, Laravel, Sass,',
+        url: "https://gradely.co/pages/tutoring"
+      },
+      {
         title: 'Learning Management System',
         description: 'This is a private learning management system owned by the Lagos state government of Nigeria. To use platform, you must be enrolled by an admin. It is integrated with LinkedIn Learning for content uploading.',
         languages: "Html/Css, JavaScript, Sass, Vue.JS, Vuex, Laravel, etc",
         url: "https://peaceful-clarke-66c2f4.netlify.app/login"
+      },
+      {
+        title: 'Find a Beats',
+        description: 'This is a creator market-place where music beats producers and artists converges to buy and sell music beats. This is an on-going project',
+        languages: 'Vue, Vuex, Vue-Router, Sass, Vuetify',
+        url: "https://eventrap.vercel.app/"
       },
       {
         title: 'Todo App',
